@@ -56,3 +56,25 @@ Node rotate_left(Node node){
 
     return r;
 }
+
+int 	max (int n1, int n2)
+{
+   return (n1>n2) ? n1 : n2;
+}
+Node 	rotate_right (Node node)
+{
+  return 0;
+}
+int 	get_balance (Node node)
+{
+   return 0;
+}
+
+void 	print_postorder (Node node)
+{
+
+}
+void 	unbalanced_insert (Node root, int key)
+{
+
+}
